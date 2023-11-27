@@ -9,9 +9,9 @@
     "@ethersproject/contracts": "^5.0.8",
     "@ethersproject/hash": "^5.0.9",
     "@ethersproject/providers": "^5.0.17",
-    "@toruslabs/torus-embed": "^1.8.1",
-    "@walletconnect/web3-provider": "^1.2.2",
-    "authereum": "0.0.4-beta.201",
+    "@toruslabs/torus-embed": "^1.8.7",
+    "@walletconnect/web3-provider": "^1.3.2",
+    "authereum": "0.1.0",
     "axios": "^0.20.0",
     "bignumber.js": "^8.1.1",
     "bitski": "^0.10.9",
@@ -25,7 +25,7 @@
     "react-dom": "^16.8.6",
     "react-scripts-ts": "^4.0.8",
     "styled-components": "4.2.0",
-    "web3": "^1.3.0",
+    "web3": "^4.0.1",
     "web3modal": "^1.9.2"
   },
   "scripts": {
